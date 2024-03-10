@@ -2,7 +2,7 @@
 
 ### Why?
 
-Wrote so many UI and local code, it's time to try the server side
+Wrote so many UI and local projects, it's time to play with the server side.
 
 ### Features / Networks
  - One player host the game (as server), then others join him
