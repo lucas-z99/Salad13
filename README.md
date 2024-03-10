@@ -4,6 +4,11 @@
 
 Wrote so many UI and local projects, it's time to play with the server side.
 
+### Snapshot
+V1 https://www.youtube.com/watch?v=j6FzhCG17Xs
+
+V2 https://www.youtube.com/watch?v=m1Ni5RP0LjI
+
 ### Features / Networks
  - One player host the game (as server), then others join him
  - Delay handling strategy, for a smooth experience and fairness (eg who's bullets hit first?)
