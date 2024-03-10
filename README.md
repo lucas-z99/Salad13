@@ -1,4 +1,4 @@
-# A multiplayer game for learning and fun
+# A multiplayer game with Unity
 
 ### Why?
 
